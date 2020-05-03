@@ -9,7 +9,7 @@ Learn everything you need to know to begin working with databases. You will lear
 
 ## Who Should Enroll
 
-It is for everyone regardless of technical background. It is both for complete beginners or for anyone who has worked or interacted with data in a professional capacity.
+This class is for everyone regardless of technical background. It is both for complete beginners or for anyone who has worked or interacted with data in a professional capacity.
 
 This course will provide learners with the foundation necessary to utilize SQL in the workplace. It is also a valuable course for anyone looking for a career change into the database world.
 
@@ -24,4 +24,4 @@ Export your data into different formats so you can use it for presentations etc.
 
 ## Prerequisites & Preparation
 
-No prerequisite knowledge is required. It is highly recommended to take this class along with the Introduction to Relational Database Design and Introduction to Relational Database Management Systems (RDBMS) classes. In those two classes, you will not only learn how to design your own database, but you will also get a basic and general understanding of how databases work including how to administer and maintain a personal or enterprise-level database.
+No prerequisite knowledge is required. It is highly recommended to take this class along with the [Introduction to Relational Database Design](https://informal.utexas.edu/classes/introduction-relational-database-design) and [Introduction to Relational Database Management Systems (RDBMS)](https://informal.utexas.edu/classes/introduction-relational-database-management-systems-rdbms) classes. In those two classes, you will not only learn how to design your own database, but you will also get a basic and general understanding of how databases work including how to administer and maintain a personal or enterprise-level database.
