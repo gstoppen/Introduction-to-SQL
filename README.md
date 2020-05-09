@@ -37,3 +37,7 @@ To get started with this class, you will need to have a couple of software appli
   * **Windows**: Take your pick of either.
   * **Mac**: You want Azure Data Studio (SSMS is Windows-only)
   * If using Azure Data Studio, it is very helpful to add the 'SSMS Keymap' extension by Kevin Cunnane. Here is [how to install that](https://www.bobpusateri.com/archive/2018/12/getting-ssms-keyboard-shortcuts-in-azure-data-studio/).
+  
+  Other helpful resources:
+  [Running SQL Server on my Mac with Docker](https://sqlrus.com/2020/05/running-sql-server-on-my-mac-with-docker/?utm_source=ssc&utm_medium=pubemail)
+  [How to Install SQL Server on a Mac](https://database.guide/how-to-install-sql-server-on-a-mac/)
