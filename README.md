@@ -29,7 +29,7 @@ No prerequisite knowledge is required. It is highly recommended to take this cla
 ## Software required for this class
 
 To get started with this class, you will need to have a couple of software applications downloaded and installed on your computer
-- Microsoft SQL Server Express or Developer edition, which is [free from Microsoft](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+- Microsoft SQL Server Express or Developer edition, which is available [free from Microsoft](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
   * **For Windows**: You may want to click 'Download now' under where it says 'Developer' or 'Express'
   * **For Mac**: You may want to click "Choose your installation setup" under "Docker", which will eventually take you to this Quickstart page on how to [Run SQL Server container images with Docker](https://docs.microsoft.com/en-us/sql/linux/quickstart-install-connect-docker)
