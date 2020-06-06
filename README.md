@@ -28,16 +28,4 @@ No prerequisite knowledge is required. It is highly recommended to take this cla
 
 ## Software required for this class
 
-To get started with this class, you will need to have a couple of software applications downloaded and installed on your computer
-- Microsoft SQL Server Express or Developer edition, which is available [free from Microsoft](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
-  * **For Windows**: You may want to click 'Download now' under where it says 'Developer' or 'Express'
-  * **For Mac**: You may want to click "Choose your installation setup" under "Docker", which will eventually take you to this Quickstart page on how to [Run SQL Server container images with Docker](https://docs.microsoft.com/en-us/sql/linux/quickstart-install-connect-docker)
-- Either [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio) or [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) (both of which are free as well).
-  * **Windows**: Take your pick of either.
-  * **Mac**: You want Azure Data Studio (SSMS is Windows-only)
-  * If using Azure Data Studio, it is very helpful to add the 'SSMS Keymap' extension by Kevin Cunnane. Here is [how to install that](https://www.bobpusateri.com/archive/2018/12/getting-ssms-keyboard-shortcuts-in-azure-data-studio/).
-  
-  Other helpful resources:
-  [Running SQL Server on my Mac with Docker](https://sqlrus.com/2020/05/running-sql-server-on-my-mac-with-docker/?utm_source=ssc&utm_medium=pubemail)
-  [How to Install SQL Server on a Mac](https://database.guide/how-to-install-sql-server-on-a-mac/)
